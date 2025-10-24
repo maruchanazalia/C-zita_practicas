@@ -1,0 +1,39 @@
+# Compilados y ejecutables
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Configuración de usuario
+.vscode/
+*.user
+*.suo
+*.userprefs
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store
+
+# Archivos de entorno
+.env
+
+# Archivos de dependencias (si usas paquetes externos)
+packages/
+.nuget/
+
+# Archivos de build
+*.msbuild
+*.csproj.user
+
+# Archivos de Rider/JetBrains
+.idea/
+*.sln.iml
+
+# Archivos de VS Code
+.vscode/
